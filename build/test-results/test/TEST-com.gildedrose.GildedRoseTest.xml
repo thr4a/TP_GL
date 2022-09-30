@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.gildedrose.GildedRoseTest" tests="17" skipped="0" failures="0" errors="0" timestamp="2022-09-16T13:08:27" hostname="turing.local.isima.fr" time="0.046">
+<testsuite name="com.gildedrose.GildedRoseTest" tests="17" skipped="0" failures="0" errors="0" timestamp="2022-09-30T12:38:36" hostname="turing.local.isima.fr" time="0.032">
   <properties/>
-  <testcase name="Test that the name is unchanged" classname="com.gildedrose.GildedRoseTest" time="0.014"/>
-  <testcase name="Test that toString works" classname="com.gildedrose.GildedRoseTest" time="0.009"/>
-  <testcase name="Test that updateQuality part 1 works" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
+  <testcase name="Test that the name is unchanged" classname="com.gildedrose.GildedRoseTest" time="0.011"/>
+  <testcase name="Test that toString works" classname="com.gildedrose.GildedRoseTest" time="0.008"/>
+  <testcase name="Test that updateQuality part 1 works" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
   <testcase name="Test that updateQuality part 2 works" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
   <testcase name="Test that updateQuality part 3 works" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
-  <testcase name="Test that updateQuality part 4 works" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
-  <testcase name="Test that updateQuality part 5 works" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
+  <testcase name="Test that updateQuality part 4 works" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
+  <testcase name="Test that updateQuality part 5 works" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
   <testcase name="Test that updateQuality part 6 works" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
-  <testcase name="Test that updateQuality part 7 works" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
+  <testcase name="Test that updateQuality part 7 works" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
   <testcase name="Test that updateQuality part 8 works" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
   <testcase name="Test that updateQuality part 9 works" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
-  <testcase name="Test that updateQuality part 10 works" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
+  <testcase name="Test that updateQuality part 10 works" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
   <testcase name="Test that updateQuality part 11 works" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
   <testcase name="Test that updateQuality part 12 works" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
   <testcase name="Test that updateQuality part 13 works" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
