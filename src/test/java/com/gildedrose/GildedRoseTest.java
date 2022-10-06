@@ -151,6 +151,24 @@ class GildedRoseTest {
   }
 
   @Test
+  @DisplayName("Test that updateQuality case Conjured works")
+  void testUpdateConjured() {
+    Item one = new Item("Conjured", 4, 50);
+    GildedRose app = new GildedRose(new Item[] {one});
+    app.updateQuality();
+    assertThat(one.quality, is(48));
+  }
+
+  @Test
+  @DisplayName("Test that updateQuality case Conjured works")
+  void testUpdateConjured1() {
+    Item one = new Item("Conjured", -1, 50);
+    GildedRose app = new GildedRose(new Item[] {one});
+    app.updateQuality();
+    assertThat(one.quality, is(46));
+  }
+
+  @Test
   @DisplayName("Test that toString works")
   void testToString() {
     Item one = new Item("Aged Brie", -1, 50);

@@ -25,7 +25,7 @@ public class Item {
                     if (this.sellIn < 0) {
                         this.quality++;
                     }
-                    break;
+                break;
                 
                 case "Backstage passes to a TAFKAL80ETC concert":
                     this.quality++;
@@ -38,14 +38,24 @@ public class Item {
                     if (this.sellIn < 0) {
                         this.quality = 0;
                     }
-                    break;
+                break;
+                
+                case "Conjured":
+                    if (this.sellIn >= 0) {
+                        this.quality += -2;
+                    }
+                    if (this.sellIn < 0) {
+                        this.quality += -4;
+                    }
+
+                break;
 
                 default:
                     this.quality--;
                     if (this.sellIn < 0) {
                         this.quality--;
                     }
-                    break;
+                break;
             }
             if (this.quality > 50) {
                 this.quality = 50;

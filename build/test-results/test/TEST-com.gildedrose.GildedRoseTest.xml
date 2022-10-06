@@ -1,23 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.gildedrose.GildedRoseTest" tests="17" skipped="0" failures="0" errors="0" timestamp="2022-10-06T12:25:27" hostname="turing.local.isima.fr" time="0.029">
+<testsuite name="com.gildedrose.GildedRoseTest" tests="19" skipped="0" failures="0" errors="0" timestamp="2022-10-06T12:38:08" hostname="turing.local.isima.fr" time="0.03">
   <properties/>
-  <testcase name="Test that the name is unchanged" classname="com.gildedrose.GildedRoseTest" time="0.01"/>
-  <testcase name="Test that toString works" classname="com.gildedrose.GildedRoseTest" time="0.007"/>
-  <testcase name="Test that updateQuality part 1 works" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
-  <testcase name="Test that updateQuality part 2 works" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
+  <testcase name="Test that the name is unchanged" classname="com.gildedrose.GildedRoseTest" time="0.011"/>
+  <testcase name="Test that toString works" classname="com.gildedrose.GildedRoseTest" time="0.006"/>
+  <testcase name="Test that updateQuality case Conjured works" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
+  <testcase name="Test that updateQuality part 1 works" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
+  <testcase name="Test that updateQuality part 2 works" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
   <testcase name="Test that updateQuality part 3 works" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
-  <testcase name="Test that updateQuality part 4 works" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
+  <testcase name="Test that updateQuality part 4 works" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
   <testcase name="Test that updateQuality part 5 works" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
   <testcase name="Test that updateQuality part 6 works" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
-  <testcase name="Test that updateQuality part 7 works" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
-  <testcase name="Test that updateQuality part 8 works" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
+  <testcase name="Test that updateQuality part 7 works" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
+  <testcase name="Test that updateQuality part 8 works" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
   <testcase name="Test that updateQuality part 9 works" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
   <testcase name="Test that updateQuality part 10 works" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
-  <testcase name="Test that updateQuality part 11 works" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
+  <testcase name="Test that updateQuality part 11 works" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
   <testcase name="Test that updateQuality part 12 works" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
-  <testcase name="Test that updateQuality part 13 works" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
+  <testcase name="Test that updateQuality part 13 works" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
   <testcase name="Test that updateQuality part 14 works" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
   <testcase name="Test that updateQuality part 15 works" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
+  <testcase name="Test that updateQuality case Conjured works" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
